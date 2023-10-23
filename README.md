@@ -1,5 +1,5 @@
 ### Him I'm Cesar 👋💻
-![spiderman1](https://github.com/Anthoo14/Anthoo14/assets/138251036/b0b9a57d-4a99-4505-8fa7-fc352eca6cd2)
+<img src="https://github.com/Anthoo14/Anthoo14/assets/138251036/8f6ee5e6-d9cc-4de4-9389-7e8524524d15" width="200" alt="spiderman">
 
 ```js
 const anthoo14={
