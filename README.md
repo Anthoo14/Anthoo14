@@ -5,13 +5,6 @@
 
 "I designate myself as a junior programmer and designer. I'm characterized by a strong eagerness to learn from any available source and to remain in an environment where I can acquire new knowledge to continue improving and contributing to my tasks and projects."
 
-```js
-const anthoo14={
-    pronouns: "he" | "him"
-    code: [Java,JavaScript, TypeScript, HTML, CSS, DATABASE],
-    tools: [Angular,React,Node, SpringBoot, MySQL, SQL-SERVER, MONGODB]
-}
-```
 
 You can find me 🌎:
 - [Instagram](https://www.instagram.com/anthoo.28/)
