@@ -6,11 +6,6 @@
 "I designate myself as a junior programmer and designer. I'm characterized by a strong eagerness to learn from any available source and to remain in an environment where I can acquire new knowledge to continue improving and contributing to my tasks and projects."
 
 
-You can find me 🌎:
-- [Instagram](https://www.instagram.com/anthoo.28/)
-- [Linkedin](https://www.linkedin.com/in/cesar-andia-ascama-874782273/)
-- [Figma](https://www.figma.com/file/msYPPUxG72B0pStdr6Pad7/Delivery-App?type=design&t=04vnGCHkclCMpoxi-6)
-
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
