@@ -6,14 +6,13 @@ const anthoo14={
     pronouns: "he" | "him"
     code: [Java,JavaScript, TypeScript, HTML, CSS, DATABASE],
     tools: [Angular,React,Node, SpringBoot, MySQL, SQL-SERVER, MONGODB]
-
 }
 ```
 
 You can find me 🌎:
--[Instagram] (https://www.instagram.com/anthoo.28/)
--[Linkedin] (https://www.linkedin.com/in/cesar-andia-ascama-874782273/)
--[Figma] (https://www.figma.com/file/msYPPUxG72B0pStdr6Pad7/Delivery-App?type=design&t=04vnGCHkclCMpoxi-6)
+- [Instagram] (https://www.instagram.com/anthoo.28/)
+- [Linkedin] (https://www.linkedin.com/in/cesar-andia-ascama-874782273/)
+- [Figma] (https://www.figma.com/file/msYPPUxG72B0pStdr6Pad7/Delivery-App?type=design&t=04vnGCHkclCMpoxi-6)
 <!--
 **Anthoo14/Anthoo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
