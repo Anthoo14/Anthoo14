@@ -27,7 +27,7 @@ You can find me 🌎:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ##  You can find me 🌎: :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-Cesar--Andia?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-andia-ascama-874782273/)](https://www.linkedin.com/in/cesar-andia-ascama-874782273/) [![Gmail Badge](https://img.shields.io/badge/-zarek2807@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zarek2807@gmail.com)](mailto:zarek2807@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Anthoo14-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/anthoo.28/)](https://www.instagram.com/anthoo.28/)
+[![Linkedin Badge](https://img.shields.io/badge/-Cesar-Andia?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-andia-ascama-874782273/)](https://www.linkedin.com/in/cesar-andia-ascama-874782273/) [![Gmail Badge](https://img.shields.io/badge/-zarek2807@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zarek2807@gmail.com)](mailto:zarek2807@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Anthoo14-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/anthoo.28/)](https://www.instagram.com/anthoo.28/)
 <!--
 **Anthoo14/Anthoo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
